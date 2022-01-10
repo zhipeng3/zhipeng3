@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### My name is Zhipeng Han.
+My major is Computer Engineer.
+- Currently I don't have a specific thing that I want to dive deep in, but I'm keep exploring.
+- I’m currently taking CSE 120, CSE132A, CSE 167, and ECE 141A.
+- My hobbies are paly game and watch movies.
